@@ -27,3 +27,13 @@ Console.WriteLine("Hello, World!");
 //}
 //Console.WriteLine(arr[arr.Length - 1]);
 #endregion
+#region Task3
+//int[] arr = { 1, 3, 5, 6, 7, 8, 9, 4, 3, 5, 6, 8, 5, 3, 8};
+
+//int lastElement = 0;
+//for (int i = 0; i < arr.Length-1; i++)
+//{
+//    lastElement++;
+//}
+//Console.WriteLine(arr[0] + arr[lastElement]);
+#endregion
